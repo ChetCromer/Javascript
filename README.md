@@ -1,2 +1,2 @@
 # Javascript
-Chet's Javascript Projecdts
+Chet's Javascript Projects
